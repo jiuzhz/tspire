@@ -26,13 +26,4 @@
 
 仓库根目录的 `pack.mcmeta` 和 `minecraft/` 是上传项目之前仓库已有的文件；**发布数据包以 `release/` 中的压缩包为准**。
 
-## 从源码构建
 
-本项目的工具脚本面向 Windows PowerShell。先按本机路径填写 `tools/target.txt`、`tools/logpath.txt`、`tools/tc-source.txt`；同名 `.example` 文件给出了格式。部分生成器需要本地解包的匠魂模组数据和测试存档。
-
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File tools/validate.ps1
-powershell -NoProfile -ExecutionPolicy Bypass -File tools/build.ps1
-```
-
-`tools/safe-deploy.ps1` 会将数据包部署到 `target.txt` 指定的世界；首次使用前请核对该路径。
