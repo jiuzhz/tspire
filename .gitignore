@@ -1,0 +1,9 @@
+# Local machine paths; copy the matching .example file and edit it for your computer.
+/tools/target.txt
+/tools/logpath.txt
+/tools/tc-source.txt
+# Local verification artifacts.
+/backup/
+/_ref/
+/docs/doc-snapshots/
+/docs/_archive/
