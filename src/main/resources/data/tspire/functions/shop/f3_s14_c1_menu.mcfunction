@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 长弓 · 烈焰之骨/皇后史莱姆/骑士史莱姆/宝钻皮革（最高 4 阶材料） — 157 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"长弓｜材料：烈焰之骨/皇后史莱姆/骑士史莱姆/宝钻皮革｜最高阶级 4｜售价 157 金币｜点击购买"}}]

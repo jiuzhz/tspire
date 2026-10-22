@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 小型斧刃 · 余烬黏液（4 阶材料） — 51 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"小型斧刃｜材料：余烬黏液｜材料阶级 4｜售价 51 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 链甲基底 · 骑士金属（4 阶材料） — 53 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"链甲基底｜材料：骑士金属｜材料阶级 4｜售价 53 金币｜点击购买"}}]

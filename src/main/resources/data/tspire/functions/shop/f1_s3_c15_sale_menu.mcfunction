@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 小型斧刃 · 木（0 阶材料） — 6 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"小型斧刃｜材料：木｜材料阶级 0｜原价 12 金币｜★特价 6 金币｜点击购买"}}]

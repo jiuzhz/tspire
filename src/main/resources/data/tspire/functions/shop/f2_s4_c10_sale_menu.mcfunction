@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 绑定结 · 焦褐石（2 阶材料） — 13 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"绑定结｜材料：焦褐石｜材料阶级 2｜原价 27 金币｜★特价 13 金币｜点击购买"}}]

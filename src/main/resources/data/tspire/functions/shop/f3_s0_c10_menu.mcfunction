@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 镐头 · 纳瓦特尔（3 阶材料） — 36 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"镐头｜材料：纳瓦特尔｜材料阶级 3｜售价 36 金币｜点击购买"}}]

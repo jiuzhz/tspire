@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 长弓 · 纳瓦特尔/钢/骑士史莱姆/宝钻皮革（最高 4 阶材料） — 154 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"长弓｜材料：纳瓦特尔/钢/骑士史莱姆/宝钻皮革｜最高阶级 4｜售价 154 金币｜点击购买"}}]

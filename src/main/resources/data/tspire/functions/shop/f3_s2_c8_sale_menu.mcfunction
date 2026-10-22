@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 锛头 · 生铁（3 阶材料） — 17 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"锛头｜材料：生铁｜材料阶级 3｜原价 35 金币｜★特价 17 金币｜点击购买"}}]

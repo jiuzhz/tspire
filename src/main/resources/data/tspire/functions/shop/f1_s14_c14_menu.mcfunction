@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 弩 · 木/木/黏液皮（最高 2 阶材料） — 96 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"弩｜材料：木/木/黏液皮｜最高阶级 2｜售价 96 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板胸甲 · 焦黑石/黏钢（最高 3 阶材料） — 124 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板胸甲｜材料：焦黑石/黏钢｜最高阶级 3｜售价 124 金币｜点击购买"}}]

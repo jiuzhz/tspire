@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 匕首 · 骨头/紫颂（最高 1 阶材料） — 64 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"匕首｜材料：骨头/紫颂｜最高阶级 1｜售价 64 金币｜点击购买"}}]

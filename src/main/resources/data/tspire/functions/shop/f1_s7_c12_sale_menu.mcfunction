@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[8] 强化水晶 · 龙裔 — 10 金币 ★特价","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 82"},"hoverEvent":{"action":"show_text","contents":"龙裔（防御）｜原价 20 金币｜★特价 10 金币｜点击购买"}}]

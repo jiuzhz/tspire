@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[9] 强化水晶 · 亡灵杀手 — 12 金币 ★特价","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 83"},"hoverEvent":{"action":"show_text","contents":"亡灵杀手（升级）｜原价 25 金币｜★特价 12 金币｜点击购买"}}]

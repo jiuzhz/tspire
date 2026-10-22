@@ -1,0 +1,3 @@
+execute if score #MYST_EV tspire_timer matches 18 if score @s tspire_my_choice matches 0 run give @s minecraft:potion{Potion:"minecraft:water",display:{Name:'{"text":"巫女的黑色药水","italic":false}'},CustomPotionColor:1973790,CustomPotionEffects:[{Id:20b,Duration:400,Amplifier:0b},{Id:5b,Duration:1200,Amplifier:1b}]} 1
+execute if score #MYST_EV tspire_timer matches 18 if score @s tspire_my_choice matches 0 run tellraw @s [{"text":"[巫女] ","color":"yellow","bold":true},{"text":"你拿走了黑色药水，巫女笑得更神秘了。","color":"yellow"}]
+execute if score #MYST_EV tspire_timer matches 18 if score @s tspire_my_choice matches 0 run scoreboard players set @s tspire_my_choice 1

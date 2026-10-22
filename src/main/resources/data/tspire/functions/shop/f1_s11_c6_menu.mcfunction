@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板头盔 · 铜/铜（最高 1 阶材料） — 64 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板头盔｜材料：铜/铜｜最高阶级 1｜售价 64 金币｜点击购买"}}]

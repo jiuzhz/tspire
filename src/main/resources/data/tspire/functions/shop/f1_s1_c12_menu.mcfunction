@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 头盔镶板 · 焦黑石（2 阶材料） — 29 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"头盔镶板｜材料：焦黑石｜材料阶级 2｜售价 29 金币｜点击购买"}}]

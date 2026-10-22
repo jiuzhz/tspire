@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 剑 · 焦褐石/噬生之骨/黏木（最高 2 阶材料） — 84 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"剑｜材料：焦褐石/噬生之骨/黏木｜最高阶级 2｜售价 84 金币｜点击购买"}}]

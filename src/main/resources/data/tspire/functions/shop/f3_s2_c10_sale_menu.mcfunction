@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 胸甲镶板 · 紫水晶青铜（3 阶材料） — 17 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"胸甲镶板｜材料：紫水晶青铜｜材料阶级 3｜原价 34 金币｜★特价 17 金币｜点击购买"}}]

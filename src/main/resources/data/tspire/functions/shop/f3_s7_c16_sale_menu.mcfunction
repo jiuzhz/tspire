@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[8] 强化水晶 · 近战保护 — 11 金币 ★特价","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 82"},"hoverEvent":{"action":"show_text","contents":"近战保护（防御）｜原价 22 金币｜★特价 11 金币｜点击购买"}}]

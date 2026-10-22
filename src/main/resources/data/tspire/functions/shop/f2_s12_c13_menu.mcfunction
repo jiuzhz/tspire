@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[13] 镶板靴子 · 钢/钴（最高 3 阶材料） — 114 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 75"},"hoverEvent":{"action":"show_text","contents":"镶板靴子｜材料：钢/钴｜最高阶级 3｜售价 114 金币｜点击购买"}}]

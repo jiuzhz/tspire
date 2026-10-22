@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板头盔 · 金/铁（最高 2 阶材料） — 89 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板头盔｜材料：金/铁｜最高阶级 2｜售价 89 金币｜点击购买"}}]

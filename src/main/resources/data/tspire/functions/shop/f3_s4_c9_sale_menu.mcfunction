@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 工具手柄 · 黑色科林斯青铜（4 阶材料） — 23 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"工具手柄｜材料：黑色科林斯青铜｜材料阶级 4｜原价 47 金币｜★特价 23 金币｜点击购买"}}]

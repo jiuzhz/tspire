@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 大板 · 黏木（2 阶材料） — 26 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"大板｜材料：黏木｜材料阶级 2｜售价 26 金币｜点击购买"}}]

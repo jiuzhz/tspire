@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[13] 镶板护腿 · 黑曜石/缠怨藤（最高 3 阶材料） — 111 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 75"},"hoverEvent":{"action":"show_text","contents":"镶板护腿｜材料：黑曜石/缠怨藤｜最高阶级 3｜售价 111 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[10] 强化水晶 · 复返 — 13 金币 ★特价","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 84"},"hoverEvent":{"action":"show_text","contents":"复返（能力）｜原价 27 金币｜★特价 13 金币｜点击购买"}}]

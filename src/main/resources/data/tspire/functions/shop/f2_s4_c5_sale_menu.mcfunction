@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 链甲基底 · 黏液藤蔓（2 阶材料） — 14 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"链甲基底｜材料：黏液藤蔓｜材料阶级 2｜原价 28 金币｜★特价 14 金币｜点击购买"}}]

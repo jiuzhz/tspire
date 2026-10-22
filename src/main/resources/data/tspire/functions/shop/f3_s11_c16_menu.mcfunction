@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板头盔 · 余烬黏液/紫水晶青铜（最高 4 阶材料） — 160 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板头盔｜材料：余烬黏液/紫水晶青铜｜最高阶级 4｜售价 160 金币｜点击购买"}}]

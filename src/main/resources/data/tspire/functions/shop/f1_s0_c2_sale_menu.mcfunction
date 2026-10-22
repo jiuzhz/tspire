@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 工具手柄 · 紫颂（1 阶材料） — 8 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"工具手柄｜材料：紫颂｜材料阶级 1｜原价 16 金币｜★特价 8 金币｜点击购买"}}]

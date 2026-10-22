@@ -1,0 +1,119 @@
+{
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:projectile_protection\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:turtle_shell\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:shulking\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:fire_protection\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:blast_protection\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:melee_protection\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:magic_protection\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:knockback_resistance\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:revitalizing\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:modifier_crystal",
+                                          "weight":  28330,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{modifier:\"tconstruct:dragonborn\"}"
+                                                            }
+                                                        ]
+                                      }
+                                  ]
+                  }
+              ]
+}

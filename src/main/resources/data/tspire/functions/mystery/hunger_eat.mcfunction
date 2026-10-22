@@ -1,0 +1,7 @@
+execute if score #MYST_EV tspire_timer matches 21 if score @s tspire_my_choice matches 0 run scoreboard players operation #TMP tspire_timer = @s tspire_gold
+execute if score #MYST_EV tspire_timer matches 21 if score @s tspire_my_choice matches 0 run scoreboard players remove #TMP tspire_timer 90
+execute if score #MYST_EV tspire_timer matches 21 if score @s tspire_my_choice matches 0 if score #TMP tspire_timer matches ..-1 run tellraw @s [{"text":"[饥饿] ","color":"red","bold":true},{"text":"金币不足 90，无法强行进食。","color":"red"}]
+execute if score #MYST_EV tspire_timer matches 21 if score @s tspire_my_choice matches 0 if score #TMP tspire_timer matches 0.. run scoreboard players remove @s tspire_gold 90
+execute if score #MYST_EV tspire_timer matches 21 if score @s tspire_my_choice matches 0 if score #TMP tspire_timer matches 0.. run give @s minecraft:potion{Potion:"minecraft:water",display:{Name:'{"text":"腐臭的补给","italic":false}'},tspireHungerMeal:1b,CustomPotionEffects:[{Id:17b,Duration:3600,Amplifier:0b},{Id:5b,Duration:1200,Amplifier:1b}]} 2
+execute if score #MYST_EV tspire_timer matches 21 if score @s tspire_my_choice matches 0 if score #TMP tspire_timer matches 0.. run tellraw @s [{"text":"[饥饿] ","color":"yellow","bold":true},{"text":"花费 90 金币，得到两瓶混合药水。","color":"yellow"}]
+execute if score #MYST_EV tspire_timer matches 21 if score @s tspire_my_choice matches 0 if score #TMP tspire_timer matches 0.. run scoreboard players set @s tspire_my_choice 1

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 板斧 · 紫颂/毒之骨/骨头/岩石（最高 2 阶材料） — 88 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：紫颂/毒之骨/骨头/岩石｜最高阶级 2｜售价 88 金币｜点击购买"}}]

@@ -1,0 +1,83 @@
+{
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:plate_helmet",
+                                          "weight":  50,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  3,
+                                                                                                   "max":  4
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:excluded_armor"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  3,
+                                                                                                   "max":  4
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:excluded_armor"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:travelers_helmet",
+                                          "weight":  50,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  3,
+                                                                                                   "max":  4
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:excluded_armor"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  3,
+                                                                                                   "max":  4
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:excluded_armor"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            }
+                                                        ]
+                                      }
+                                  ]
+                  }
+              ]
+}

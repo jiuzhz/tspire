@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 盾牌基底 · 冰（3 阶材料） — 34 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"盾牌基底｜材料：冰｜材料阶级 3｜售价 34 金币｜点击购买"}}]

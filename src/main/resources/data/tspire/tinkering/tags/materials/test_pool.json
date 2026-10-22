@@ -1,0 +1,8 @@
+{
+  "values": [
+    { "id": "tconstruct:iron", "required": false },
+    { "id": "tconstruct:gold", "required": false },
+    { "id": "tconstruct:amethyst", "required": false },
+    { "id": "tconstruct:copper", "required": false }
+  ]
+}

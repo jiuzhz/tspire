@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 战斗牌子 · 远古材料 — 180 金币 ★稀有","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"战斗牌子｜远古材料打造｜售价 180 金币｜点击购买"}}]

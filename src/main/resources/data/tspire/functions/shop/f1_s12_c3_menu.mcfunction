@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[13] 镶板靴子 · 金/铁（最高 2 阶材料） — 97 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 75"},"hoverEvent":{"action":"show_text","contents":"镶板靴子｜材料：金/铁｜最高阶级 2｜售价 97 金币｜点击购买"}}]

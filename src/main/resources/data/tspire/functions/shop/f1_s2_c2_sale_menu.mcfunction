@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 护腿镶板 · 铜（1 阶材料） — 7 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"护腿镶板｜材料：铜｜材料阶级 1｜原价 15 金币｜★特价 7 金币｜点击购买"}}]

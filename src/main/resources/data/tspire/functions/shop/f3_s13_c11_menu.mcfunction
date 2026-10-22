@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 板斧 · 钴/余烬黏液/黏钢/烈焰之骨（最高 4 阶材料） — 159 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：钴/余烬黏液/黏钢/烈焰之骨｜最高阶级 4｜售价 159 金币｜点击购买"}}]

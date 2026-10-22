@@ -1,0 +1,97 @@
+{
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:maille",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:amethyst_bronze\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:maille",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:cobalt\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:maille",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:ichorskin\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:maille",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:obsidian\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:maille",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:pig_iron\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:maille",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:rose_gold\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:maille",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:slimesteel\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:maille",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:steel\"}"
+                                                            }
+                                                        ]
+                                      }
+                                  ]
+                  }
+              ]
+}

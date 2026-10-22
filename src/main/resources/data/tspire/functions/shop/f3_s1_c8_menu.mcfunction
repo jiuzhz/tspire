@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 小型剑刃 · 皇后史莱姆（4 阶材料） — 52 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"小型剑刃｜材料：皇后史莱姆｜材料阶级 4｜售价 52 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 弓弦 · 奶酪（2 阶材料） — 23 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"弓弦｜材料：奶酪｜材料阶级 2｜售价 23 金币｜点击购买"}}]

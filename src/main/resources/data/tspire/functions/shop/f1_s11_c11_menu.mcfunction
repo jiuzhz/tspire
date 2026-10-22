@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板头盔 · 焦黑石/黏液藤蔓（最高 2 阶材料） — 90 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板头盔｜材料：焦黑石/黏液藤蔓｜最高阶级 2｜售价 90 金币｜点击购买"}}]

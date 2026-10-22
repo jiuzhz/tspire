@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 长弓 · 骨头/骨头/木/奶酪（最高 2 阶材料） — 91 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"长弓｜材料：骨头/骨头/木/奶酪｜最高阶级 2｜售价 91 金币｜点击购买"}}]

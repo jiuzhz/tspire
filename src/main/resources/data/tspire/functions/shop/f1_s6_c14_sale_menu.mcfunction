@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[7] 强化水晶 · 钻石 — 8 金币 ★特价","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 81"},"hoverEvent":{"action":"show_text","contents":"钻石（升级）｜原价 16 金币｜★特价 8 金币｜点击购买"}}]

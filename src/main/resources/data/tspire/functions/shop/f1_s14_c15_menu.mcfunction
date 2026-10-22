@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 板斧 · 木/噬生之骨/黏木/垂泪藤（最高 2 阶材料） — 94 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：木/噬生之骨/黏木/垂泪藤｜最高阶级 2｜售价 94 金币｜点击购买"}}]

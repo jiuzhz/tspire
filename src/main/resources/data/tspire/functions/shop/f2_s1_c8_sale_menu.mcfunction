@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 护腿镶板 · 玫瑰金（3 阶材料） — 19 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"护腿镶板｜材料：玫瑰金｜材料阶级 3｜原价 38 金币｜★特价 19 金币｜点击购买"}}]

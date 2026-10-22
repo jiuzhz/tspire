@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 护腿镶板 · 黑色科林斯青铜（4 阶材料） — 51 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"护腿镶板｜材料：黑色科林斯青铜｜材料阶级 4｜售价 51 金币｜点击购买"}}]

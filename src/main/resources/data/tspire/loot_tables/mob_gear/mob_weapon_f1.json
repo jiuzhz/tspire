@@ -1,0 +1,376 @@
+{
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:sword",
+                                          "weight":  20,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:dagger",
+                                          "weight":  15,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:scythe",
+                                          "weight":  10,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:crossbow",
+                                          "weight":  10,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            },
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:longbow",
+                                          "weight":  10,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            },
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:javelin",
+                                          "weight":  8,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:compat_excluded"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            },
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_modifiers:[{name:\"tconstruct:returning\",level:1}]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:plate_shield",
+                                          "weight":  7,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "tconstruct:add_tool_data",
+                                                                "materials":  [
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:excluded_armor"
+                                                                                                   }
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "tconstruct:random",
+                                                                                      "tier":  {
+                                                                                                   "min":  0,
+                                                                                                   "max":  1
+                                                                                               },
+                                                                                      "material":  {
+                                                                                                       "type":  "mantle:inverted",
+                                                                                                       "inverted_type":  "mantle:tag",
+                                                                                                       "tag":  "tspire:excluded_armor"
+                                                                                                   }
+                                                                                  }
+                                                                              ],
+                                                                "damage":  0
+                                                            }
+                                                        ]
+                                      }
+                                  ]
+                  }
+              ]
+}

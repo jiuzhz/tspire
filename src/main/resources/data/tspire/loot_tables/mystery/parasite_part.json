@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:tool_binding",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Material:\"tconstruct:twisting_vine\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:tough_binding",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Material:\"tconstruct:twisting_vine\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:bowstring",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Material:\"tconstruct:twisting_vine\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:maille",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Material:\"tconstruct:twisting_vine\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

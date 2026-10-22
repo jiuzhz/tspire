@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 弩 · 铁/紫水晶青铜/玫瑰金（最高 3 阶材料） — 115 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"弩｜材料：铁/紫水晶青铜/玫瑰金｜最高阶级 3｜售价 115 金币｜点击购买"}}]

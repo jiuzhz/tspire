@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 匕首 · 钢/钴（最高 3 阶材料） — 113 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"匕首｜材料：钢/钴｜最高阶级 3｜售价 113 金币｜点击购买"}}]

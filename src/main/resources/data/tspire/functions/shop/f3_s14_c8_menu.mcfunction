@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 劈刀 · 紫水晶青铜/紫水晶青铜/紫水晶青铜/黏钢（最高 3 阶材料） — 113 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"劈刀｜材料：紫水晶青铜/紫水晶青铜/紫水晶青铜/黏钢｜最高阶级 3｜售价 113 金币｜点击购买"}}]

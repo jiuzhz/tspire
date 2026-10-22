@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 弓把 · 纳瓦特尔（3 阶材料） — 44 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"弓把｜材料：纳瓦特尔｜材料阶级 3｜售价 44 金币｜点击购买"}}]

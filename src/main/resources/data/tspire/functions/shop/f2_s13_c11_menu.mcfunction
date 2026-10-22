@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 劈刀 · 玫瑰金/纳瓦特尔/毒之骨/毒之骨（最高 3 阶材料） — 116 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"劈刀｜材料：玫瑰金/纳瓦特尔/毒之骨/毒之骨｜最高阶级 3｜售价 116 金币｜点击购买"}}]

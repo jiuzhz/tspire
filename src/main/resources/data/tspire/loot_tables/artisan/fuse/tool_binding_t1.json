@@ -1,0 +1,75 @@
+{
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:tool_binding",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:bone\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:tool_binding",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:chorus\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:tool_binding",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:copper\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:tool_binding",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:flint\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:tool_binding",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:rock\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:tool_binding",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Material:\"tconstruct:vine\"}"
+                                                            }
+                                                        ]
+                                      }
+                                  ]
+                  }
+              ]
+}

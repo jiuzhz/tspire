@@ -1,0 +1,7 @@
+{
+  "function": "mantle:set_fluid",
+  "fluid": {
+    "amount": 2000,
+    "fluid": "tconstruct:powdered_snow"
+  }
+}

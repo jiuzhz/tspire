@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板胸甲 · 生铁/黏液皮（最高 3 阶材料） — 114 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板胸甲｜材料：生铁/黏液皮｜最高阶级 3｜售价 114 金币｜点击购买"}}]

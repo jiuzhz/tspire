@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 靴子镶板 · 钢（3 阶材料） — 22 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"靴子镶板｜材料：钢｜材料阶级 3｜原价 44 金币｜★特价 22 金币｜点击购买"}}]

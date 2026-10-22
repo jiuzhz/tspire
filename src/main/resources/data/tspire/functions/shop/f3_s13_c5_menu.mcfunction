@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 长弓 · 纳瓦特尔/玫瑰金/钢/黏液藤蔓（最高 4 阶材料） — 153 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"长弓｜材料：纳瓦特尔/玫瑰金/钢/黏液藤蔓｜最高阶级 4｜售价 153 金币｜点击购买"}}]

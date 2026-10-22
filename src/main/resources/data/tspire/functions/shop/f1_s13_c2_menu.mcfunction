@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 板斧 · 燧石/焦褐石/木/噬生之骨（最高 2 阶材料） — 77 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：燧石/焦褐石/木/噬生之骨｜最高阶级 2｜售价 77 金币｜点击购买"}}]

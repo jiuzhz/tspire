@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 盾牌基底 · 黏木（2 阶材料） — 29 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"盾牌基底｜材料：黏木｜材料阶级 2｜售价 29 金币｜点击购买"}}]

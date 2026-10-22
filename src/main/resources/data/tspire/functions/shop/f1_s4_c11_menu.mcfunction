@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 弓臂 · 木（0 阶材料） — 19 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"弓臂｜材料：木｜材料阶级 0｜售价 19 金币｜点击购买"}}]

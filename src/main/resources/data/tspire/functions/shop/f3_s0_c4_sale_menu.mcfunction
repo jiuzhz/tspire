@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 胸甲镶板 · 玛玉灵（4 阶材料） — 28 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"胸甲镶板｜材料：玛玉灵｜材料阶级 4｜原价 56 金币｜★特价 28 金币｜点击购买"}}]

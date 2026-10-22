@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 坚韧套环 · 末地石（2 阶材料） — 16 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"坚韧套环｜材料：末地石｜材料阶级 2｜原价 32 金币｜★特价 16 金币｜点击购买"}}]

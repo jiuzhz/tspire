@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 弓把 · 皇后史莱姆（4 阶材料） — 26 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"弓把｜材料：皇后史莱姆｜材料阶级 4｜原价 53 金币｜★特价 26 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板头盔 · 钴/紫水晶青铜（最高 3 阶材料） — 109 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板头盔｜材料：钴/紫水晶青铜｜最高阶级 3｜售价 109 金币｜点击购买"}}]

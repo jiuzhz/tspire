@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 板斧刃 · 烈焰之骨（4 阶材料） — 24 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"板斧刃｜材料：烈焰之骨｜材料阶级 4｜原价 48 金币｜★特价 24 金币｜点击购买"}}]

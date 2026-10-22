@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 镐头 · 钢（3 阶材料） — 35 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"镐头｜材料：钢｜材料阶级 3｜售价 35 金币｜点击购买"}}]

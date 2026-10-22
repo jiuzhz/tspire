@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 弓臂 · 生铁（3 阶材料） — 35 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"弓臂｜材料：生铁｜材料阶级 3｜售价 35 金币｜点击购买"}}]

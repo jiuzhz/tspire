@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 坚韧手柄 · 骨头（1 阶材料） — 6 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"坚韧手柄｜材料：骨头｜材料阶级 1｜原价 13 金币｜★特价 6 金币｜点击购买"}}]

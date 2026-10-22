@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 弓臂 · 烈焰之骨（4 阶材料） — 55 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"弓臂｜材料：烈焰之骨｜材料阶级 4｜售价 55 金币｜点击购买"}}]

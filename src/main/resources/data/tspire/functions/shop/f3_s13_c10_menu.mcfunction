@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 剑 · 玛玉灵/黏钢/黏钢（最高 4 阶材料） — 154 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"剑｜材料：玛玉灵/黏钢/黏钢｜最高阶级 4｜售价 154 金币｜点击购买"}}]

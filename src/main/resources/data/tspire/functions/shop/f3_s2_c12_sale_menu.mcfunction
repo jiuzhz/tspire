@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 坚韧套环 · 黑色科林斯青铜（4 阶材料） — 26 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"坚韧套环｜材料：黑色科林斯青铜｜材料阶级 4｜原价 52 金币｜★特价 26 金币｜点击购买"}}]

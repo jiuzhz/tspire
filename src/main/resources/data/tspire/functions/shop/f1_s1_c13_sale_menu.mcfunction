@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 弓弦 · 黏液皮（2 阶材料） — 12 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"弓弦｜材料：黏液皮｜材料阶级 2｜原价 25 金币｜★特价 12 金币｜点击购买"}}]

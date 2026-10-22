@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 小型斧刃 · 燧石（1 阶材料） — 11 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"小型斧刃｜材料：燧石｜材料阶级 1｜售价 11 金币｜点击购买"}}]

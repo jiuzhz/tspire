@@ -1,0 +1,7 @@
+{
+    "function": "mantle:set_fluid",
+    "fluid": {
+        "amount": 1000,
+        "fluid": "tconstruct:molten_cobalt"
+    }
+}

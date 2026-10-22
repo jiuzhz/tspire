@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:sword",
+          "functions": [
+            {
+              "function": "tconstruct:add_tool_data",
+              "materials": [
+                { "type": "tconstruct:random", "tier": 1 },
+                { "type": "tconstruct:random", "tier": 1 },
+                { "type": "tconstruct:random", "tier": 1 }
+              ],
+              "damage": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

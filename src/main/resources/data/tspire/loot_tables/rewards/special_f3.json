@@ -1,0 +1,69 @@
+{
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "minecraft:golden_apple",
+                                          "weight":  9
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "minecraft:splash_potion",
+                                          "weight":  9,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Potion:\"minecraft:strong_healing\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "minecraft:potion",
+                                          "weight":  9,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Potion:\"minecraft:strength\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "minecraft:potion",
+                                          "weight":  9,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Potion:\"minecraft:swiftness\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "minecraft:lingering_potion",
+                                          "weight":  9,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{Potion:\"minecraft:strong_regeneration\"}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:seared_fuel_tank",
+                                          "weight":  5,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tank:{FluidName:\"tconstruct:blazing_blood\",Amount:1000}}"
+                                                            }
+                                                        ]
+                                      }
+                                  ]
+                  }
+              ]
+}

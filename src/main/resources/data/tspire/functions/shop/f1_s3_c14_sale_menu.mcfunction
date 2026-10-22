@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 坚韧手柄 · 末地石（2 阶材料） — 14 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"坚韧手柄｜材料：末地石｜材料阶级 2｜原价 28 金币｜★特价 14 金币｜点击购买"}}]

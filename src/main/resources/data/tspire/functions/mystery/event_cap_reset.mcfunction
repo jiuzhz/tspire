@@ -1,0 +1,25 @@
+# A fresh run gets two visits per mystery event, shared across floors.
+scoreboard players set #ME_1 tspire_timer 0
+scoreboard players set #ME_2 tspire_timer 0
+scoreboard players set #ME_3 tspire_timer 0
+scoreboard players set #ME_4 tspire_timer 0
+scoreboard players set #ME_5 tspire_timer 0
+scoreboard players set #ME_6 tspire_timer 0
+scoreboard players set #ME_7 tspire_timer 0
+scoreboard players set #ME_8 tspire_timer 0
+scoreboard players set #ME_9 tspire_timer 0
+scoreboard players set #ME_10 tspire_timer 0
+scoreboard players set #ME_11 tspire_timer 0
+scoreboard players set #ME_12 tspire_timer 0
+scoreboard players set #ME_13 tspire_timer 0
+scoreboard players set #ME_14 tspire_timer 0
+scoreboard players set #ME_15 tspire_timer 0
+scoreboard players set #ME_16 tspire_timer 0
+scoreboard players set #ME_17 tspire_timer 0
+scoreboard players set #ME_18 tspire_timer 0
+scoreboard players set #ME_19 tspire_timer 0
+scoreboard players set #ME_20 tspire_timer 0
+scoreboard players set #ME_21 tspire_timer 0
+scoreboard players set #ME_22 tspire_timer 0
+scoreboard players set #ME_23 tspire_timer 0
+scoreboard players set #ME_24 tspire_timer 0

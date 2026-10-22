@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 护腿镶板 · 骑士金属（4 阶材料） — 26 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"护腿镶板｜材料：骑士金属｜材料阶级 4｜原价 52 金币｜★特价 26 金币｜点击购买"}}]

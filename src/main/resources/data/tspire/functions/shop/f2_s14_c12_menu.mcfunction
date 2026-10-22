@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 劈刀 · 铁/焦黑石/黏钢/纳瓦特尔（最高 3 阶材料） — 127 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"劈刀｜材料：铁/焦黑石/黏钢/纳瓦特尔｜最高阶级 3｜售价 127 金币｜点击购买"}}]

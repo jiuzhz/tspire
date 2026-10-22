@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 劈刀 · 焦黑石/木/黏木/木（最高 2 阶材料） — 78 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"劈刀｜材料：焦黑石/木/黏木/木｜最高阶级 2｜售价 78 金币｜点击购买"}}]

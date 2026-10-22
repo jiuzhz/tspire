@@ -1,0 +1,17 @@
+schedule clear tspire:map/runtime/row_1
+schedule clear tspire:map/runtime/row_2
+schedule clear tspire:map/runtime/row_3
+schedule clear tspire:map/runtime/row_4
+schedule clear tspire:map/runtime/row_5
+schedule clear tspire:map/runtime/row_6
+schedule clear tspire:map/runtime/row_7
+schedule clear tspire:map/runtime/row_8
+schedule clear tspire:map/runtime/row_9
+schedule clear tspire:map/runtime/row_10
+schedule clear tspire:map/runtime/row_11
+schedule clear tspire:map/runtime/row_12
+schedule clear tspire:map/runtime/row_13
+schedule clear tspire:map/runtime/row_14
+schedule clear tspire:map/runtime/row_15
+schedule clear tspire:map/runtime/finish_positions
+schedule clear tspire:map/runtime/assign_batch

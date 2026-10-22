@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 剑 · 纳瓦特尔/黏钢/紫水晶青铜（最高 3 阶材料） — 119 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"剑｜材料：纳瓦特尔/黏钢/紫水晶青铜｜最高阶级 3｜售价 119 金币｜点击购买"}}]

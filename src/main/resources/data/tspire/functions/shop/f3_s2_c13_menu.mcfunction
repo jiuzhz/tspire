@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 头盔镶板 · 骑士史莱姆（4 阶材料） — 54 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"头盔镶板｜材料：骑士史莱姆｜材料阶级 4｜售价 54 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 匕首 · 钢/噬生之骨（最高 3 阶材料） — 120 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"匕首｜材料：钢/噬生之骨｜最高阶级 3｜售价 120 金币｜点击购买"}}]

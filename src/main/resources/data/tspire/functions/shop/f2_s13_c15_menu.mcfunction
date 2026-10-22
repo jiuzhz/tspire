@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 长弓 · 钢/毒之骨/黏木/黏液皮（最高 3 阶材料） — 121 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"长弓｜材料：钢/毒之骨/黏木/黏液皮｜最高阶级 3｜售价 121 金币｜点击购买"}}]

@@ -1,0 +1,36 @@
+{
+  "_comment": "Single source of truth for the tower geometry. tools/gen-runtime-map.js and tools/gen-terrain.ps1 both read this, so the node positions and the carved rooms can never drift apart.",
+
+  "rows": 15,
+  "rowSpacing": 24,
+  "colSpacing": 20,
+  "minCols": 2,
+  "maxCols": 4,
+
+  "roomHalf": 7,
+  "roomWall": 8,
+  "roomHeight": 5,
+  "barrierY": 5,
+
+  "bossHalf": 14,
+  "bossWall": 15,
+  "bossGap": 7,
+
+  "hallMarginX": 3,
+  "corridorInset": 2,
+  "hallSouthMargin": 4,
+  "hallNorthMargin": 3,
+
+  "_southPad_comment": "v0.7.94: the draft spawn is at z=0. The south edge is z=8, with a two-block wall at z=9..10. Previous south walls through z=34 remain in the clear range.",
+  "southPad": -8,
+  "entranceHalf": 32,
+
+  "clearHeightBottom": -3,
+  "clearHeightTop": 8,
+  "clearSouthExtra": 16,
+  "fillLimit": 32768,
+  "bandSafety": 0.95,
+
+  "_sealBlock_comment": "v0.6.25: permanent door seals use a VISIBLE block so the player can see at a glance which rooms are off-limits (can't enter / can't go back). The temporary battle lock (terrain/lock) still uses barrier on purpose, so it does not look like a permanent wall.",
+  "sealBlock": "minecraft:polished_blackstone_bricks"
+}

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 板斧刃 · 焦黑石（2 阶材料） — 11 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"板斧刃｜材料：焦黑石｜材料阶级 2｜原价 22 金币｜★特价 11 金币｜点击购买"}}]

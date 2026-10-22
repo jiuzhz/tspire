@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 弩 · 黏钢/铁/黑曜丝线（最高 3 阶材料） — 118 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"弩｜材料：黏钢/铁/黑曜丝线｜最高阶级 3｜售价 118 金币｜点击购买"}}]

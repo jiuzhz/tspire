@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 锛头 · 燧石（1 阶材料） — 16 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"锛头｜材料：燧石｜材料阶级 1｜售价 16 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[8] 强化水晶 · 锋利 — 19 金币","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 82"},"hoverEvent":{"action":"show_text","contents":"锋利（升级）｜售价 19 金币｜点击购买"}}]

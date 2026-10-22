@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 胸甲镶板 · 铜（1 阶材料） — 5 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"胸甲镶板｜材料：铜｜材料阶级 1｜原价 11 金币｜★特价 5 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 弩 · 毒之骨/生铁/黑曜丝线（最高 3 阶材料） — 118 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"弩｜材料：毒之骨/生铁/黑曜丝线｜最高阶级 3｜售价 118 金币｜点击购买"}}]

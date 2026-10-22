@@ -1,0 +1,14 @@
+{
+  "function": "minecraft:copy_nbt",
+  "source": {
+    "type": "minecraft:storage",
+    "source": "tspire:bridge"
+  },
+  "ops": [
+    {
+      "source": "serial",
+      "target": "tspire_bridge_serial",
+      "op": "replace"
+    }
+  ]
+}

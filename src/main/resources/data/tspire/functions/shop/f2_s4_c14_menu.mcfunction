@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 坚韧套环 · 噬生之骨（2 阶材料） — 31 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"坚韧套环｜材料：噬生之骨｜材料阶级 2｜售价 31 金币｜点击购买"}}]

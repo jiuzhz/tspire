@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 弓弦 · 黏液藤蔓（2 阶材料） — 29 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"弓弦｜材料：黏液藤蔓｜材料阶级 2｜售价 29 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 胸甲镶板 · 黑色科林斯青铜（4 阶材料） — 28 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"胸甲镶板｜材料：黑色科林斯青铜｜材料阶级 4｜原价 56 金币｜★特价 28 金币｜点击购买"}}]

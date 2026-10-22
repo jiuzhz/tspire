@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 板斧 · 钢/黏钢/纳瓦特尔/纳瓦特尔（最高 3 阶材料） — 122 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：钢/黏钢/纳瓦特尔/纳瓦特尔｜最高阶级 3｜售价 122 金币｜点击购买"}}]

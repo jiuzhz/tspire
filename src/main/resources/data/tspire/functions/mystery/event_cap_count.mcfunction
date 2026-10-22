@@ -1,0 +1,25 @@
+# One shared counter per event type across all three floors.
+execute if score #MYST_EV tspire_timer matches 1 run scoreboard players add #ME_1 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 2 run scoreboard players add #ME_2 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 3 run scoreboard players add #ME_3 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 4 run scoreboard players add #ME_4 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 5 run scoreboard players add #ME_5 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 6 run scoreboard players add #ME_6 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 7 run scoreboard players add #ME_7 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 8 run scoreboard players add #ME_8 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 9 run scoreboard players add #ME_9 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 10 run scoreboard players add #ME_10 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 11 run scoreboard players add #ME_11 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 12 run scoreboard players add #ME_12 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 13 run scoreboard players add #ME_13 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 14 run scoreboard players add #ME_14 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 15 run scoreboard players add #ME_15 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 16 run scoreboard players add #ME_16 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 17 run scoreboard players add #ME_17 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 18 run scoreboard players add #ME_18 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 19 run scoreboard players add #ME_19 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 20 run scoreboard players add #ME_20 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 21 run scoreboard players add #ME_21 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 22 run scoreboard players add #ME_22 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 23 run scoreboard players add #ME_23 tspire_timer 1
+execute if score #MYST_EV tspire_timer matches 24 run scoreboard players add #ME_24 tspire_timer 1

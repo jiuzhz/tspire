@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 头盔镶板 · 玫瑰金（3 阶材料） — 20 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"头盔镶板｜材料：玫瑰金｜材料阶级 3｜原价 41 金币｜★特价 20 金币｜点击购买"}}]

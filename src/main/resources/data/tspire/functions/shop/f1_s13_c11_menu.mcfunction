@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 剑 · 黏木/毒之骨/铜（最高 2 阶材料） — 77 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"剑｜材料：黏木/毒之骨/铜｜最高阶级 2｜售价 77 金币｜点击购买"}}]

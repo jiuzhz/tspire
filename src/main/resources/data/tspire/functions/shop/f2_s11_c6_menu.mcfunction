@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板护腿 · 紫水晶青铜/焦黑石（最高 3 阶材料） — 128 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板护腿｜材料：紫水晶青铜/焦黑石｜最高阶级 3｜售价 128 金币｜点击购买"}}]

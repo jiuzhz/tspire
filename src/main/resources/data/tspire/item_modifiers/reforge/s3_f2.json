@@ -1,0 +1,42 @@
+{
+    "function":  "tconstruct:add_tool_data",
+    "materials":  [
+                      {
+                          "type":  "tconstruct:random",
+                          "tier":  {
+                                       "min":  2,
+                                       "max":  3
+                                   },
+                          "material":  {
+                                           "type":  "mantle:inverted",
+                                           "inverted_type":  "mantle:tag",
+                                           "tag":  "tspire:compat_excluded"
+                                       }
+                      },
+                      {
+                          "type":  "tconstruct:random",
+                          "tier":  {
+                                       "min":  2,
+                                       "max":  3
+                                   },
+                          "material":  {
+                                           "type":  "mantle:inverted",
+                                           "inverted_type":  "mantle:tag",
+                                           "tag":  "tspire:compat_excluded"
+                                       }
+                      },
+                      {
+                          "type":  "tconstruct:random",
+                          "tier":  {
+                                       "min":  2,
+                                       "max":  3
+                                   },
+                          "material":  {
+                                           "type":  "mantle:inverted",
+                                           "inverted_type":  "mantle:tag",
+                                           "tag":  "tspire:compat_excluded"
+                                       }
+                      }
+                  ],
+    "damage":  0
+}

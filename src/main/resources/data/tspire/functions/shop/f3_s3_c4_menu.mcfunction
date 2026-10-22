@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 弓把 · 玫瑰金（3 阶材料） — 39 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"弓把｜材料：玫瑰金｜材料阶级 3｜售价 39 金币｜点击购买"}}]

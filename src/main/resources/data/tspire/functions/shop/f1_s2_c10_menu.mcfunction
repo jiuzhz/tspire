@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 锤头 · 噬生之骨（2 阶材料） — 26 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"锤头｜材料：噬生之骨｜材料阶级 2｜售价 26 金币｜点击购买"}}]

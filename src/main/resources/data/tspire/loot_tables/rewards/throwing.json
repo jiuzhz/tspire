@@ -1,0 +1,91 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:shuriken",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 4
+            },
+            {
+              "function": "tconstruct:add_tool_data",
+              "materials": [
+                {
+                  "type": "tconstruct:random",
+                  "tier": {
+                    "min": 0,
+                    "max": 2
+                  },
+                  "material": {
+                    "type": "mantle:inverted",
+                    "inverted_type": "mantle:tag",
+                    "tag": "tspire:excluded_throwing"
+                  }
+                },
+                {
+                  "type": "tconstruct:random",
+                  "tier": {
+                    "min": 0,
+                    "max": 2
+                  },
+                  "material": {
+                    "type": "mantle:inverted",
+                    "inverted_type": "mantle:tag",
+                    "tag": "tspire:excluded_throwing"
+                  }
+                }
+              ],
+              "damage": 0
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:throwing_axe",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 4
+            },
+            {
+              "function": "tconstruct:add_tool_data",
+              "materials": [
+                {
+                  "type": "tconstruct:random",
+                  "tier": {
+                    "min": 0,
+                    "max": 2
+                  },
+                  "material": {
+                    "type": "mantle:inverted",
+                    "inverted_type": "mantle:tag",
+                    "tag": "tspire:excluded_throwing"
+                  }
+                },
+                {
+                  "type": "tconstruct:random",
+                  "tier": {
+                    "min": 0,
+                    "max": 2
+                  },
+                  "material": {
+                    "type": "mantle:inverted",
+                    "inverted_type": "mantle:tag",
+                    "tag": "tspire:excluded_throwing"
+                  }
+                }
+              ],
+              "damage": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

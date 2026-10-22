@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 小型斧刃 · 毒之骨（2 阶材料） — 23 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"小型斧刃｜材料：毒之骨｜材料阶级 2｜售价 23 金币｜点击购买"}}]

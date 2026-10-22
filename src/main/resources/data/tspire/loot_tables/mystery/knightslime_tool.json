@@ -1,0 +1,90 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:sword",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:knightslime\",\"tconstruct:knightslime\",\"tconstruct:knightslime\"]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:dagger",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 2
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:knightslime\",\"tconstruct:knightslime\"]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:scythe",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:knightslime\",\"tconstruct:knightslime\",\"tconstruct:knightslime\",\"tconstruct:knightslime\"]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:plate_helmet",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:knightslime\",\"tconstruct:knightslime\"]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:plate_chestplate",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:knightslime\",\"tconstruct:knightslime\"]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:plate_leggings",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:knightslime\",\"tconstruct:knightslime\"]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:plate_boots",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:knightslime\",\"tconstruct:knightslime\"]}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

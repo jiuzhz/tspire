@@ -1,0 +1,229 @@
+{
+    "pools":  [
+                  {
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:amethyst_bronze\",\"tconstruct:amethyst_bronze\",\"tconstruct:amethyst_bronze\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:blaze\",\"tconstruct:blaze\",\"tconstruct:blaze\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:cobalt\",\"tconstruct:cobalt\",\"tconstruct:cobalt\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:darkthread\",\"tconstruct:darkthread\",\"tconstruct:darkthread\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:ender_pearl\",\"tconstruct:ender_pearl\",\"tconstruct:ender_pearl\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:glowstone\",\"tconstruct:glowstone\",\"tconstruct:glowstone\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:ice\",\"tconstruct:ice\",\"tconstruct:ice\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:ichor\",\"tconstruct:ichor\",\"tconstruct:ichor\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:ichorskin\",\"tconstruct:ichorskin\",\"tconstruct:ichorskin\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:jadeite\",\"tconstruct:jadeite\",\"tconstruct:jadeite\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:kobold\",\"tconstruct:kobold\",\"tconstruct:kobold\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:magma\",\"tconstruct:magma\",\"tconstruct:magma\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:magnetite\",\"tconstruct:magnetite\",\"tconstruct:magnetite\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:nahuatl\",\"tconstruct:nahuatl\",\"tconstruct:nahuatl\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:obsidian\",\"tconstruct:obsidian\",\"tconstruct:obsidian\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:pig_iron\",\"tconstruct:pig_iron\",\"tconstruct:pig_iron\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:quartz\",\"tconstruct:quartz\",\"tconstruct:quartz\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:rose_gold\",\"tconstruct:rose_gold\",\"tconstruct:rose_gold\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:slimesteel\",\"tconstruct:slimesteel\",\"tconstruct:slimesteel\"]}"
+                                                            }
+                                                        ]
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "tconstruct:hand_axe",
+                                          "weight":  1,
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_nbt",
+                                                                "tag":  "{tic_materials:[\"tconstruct:steel\",\"tconstruct:steel\",\"tconstruct:steel\"]}"
+                                                            }
+                                                        ]
+                                      }
+                                  ]
+                  }
+              ]
+}

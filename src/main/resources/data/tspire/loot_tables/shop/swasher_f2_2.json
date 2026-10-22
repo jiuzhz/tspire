@@ -1,0 +1,153 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:swasher",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:scorched_stone\",\"tconstruct:seared_stone\",\"tconstruct:nahuatl\"]}"
+            },
+            {
+              "function": "mantle:set_fluid",
+              "fluid": {
+                "amount": 2000,
+                "fluid": "minecraft:water"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:swasher",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:scorched_stone\",\"tconstruct:seared_stone\",\"tconstruct:nahuatl\"]}"
+            },
+            {
+              "function": "mantle:set_fluid",
+              "fluid": {
+                "amount": 2000,
+                "fluid": "minecraft:lava"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:swasher",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:scorched_stone\",\"tconstruct:seared_stone\",\"tconstruct:nahuatl\"]}"
+            },
+            {
+              "function": "mantle:set_fluid",
+              "fluid": {
+                "amount": 2000,
+                "fluid": "tconstruct:powdered_snow"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:swasher",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:scorched_stone\",\"tconstruct:seared_stone\",\"tconstruct:nahuatl\"]}"
+            },
+            {
+              "function": "mantle:set_fluid",
+              "fluid": {
+                "amount": 2000,
+                "fluid": "tconstruct:earth_slime"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:swasher",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:scorched_stone\",\"tconstruct:seared_stone\",\"tconstruct:nahuatl\"]}"
+            },
+            {
+              "function": "mantle:set_fluid",
+              "fluid": {
+                "amount": 2000,
+                "fluid": "tconstruct:sky_slime"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:swasher",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:scorched_stone\",\"tconstruct:seared_stone\",\"tconstruct:nahuatl\"]}"
+            },
+            {
+              "function": "mantle:set_fluid",
+              "fluid": {
+                "amount": 2000,
+                "fluid": "tconstruct:ichor"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:swasher",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:scorched_stone\",\"tconstruct:seared_stone\",\"tconstruct:nahuatl\"]}"
+            },
+            {
+              "function": "mantle:set_fluid",
+              "fluid": {
+                "amount": 2000,
+                "fluid": "tconstruct:molten_queens_slime"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:swasher",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:scorched_stone\",\"tconstruct:seared_stone\",\"tconstruct:nahuatl\"]}"
+            },
+            {
+              "function": "mantle:set_fluid",
+              "fluid": {
+                "amount": 2000,
+                "fluid": "tconstruct:molten_netherite"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

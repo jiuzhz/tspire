@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 板斧 · 噬生之骨/玫瑰金/紫水晶青铜/黏液藤蔓（最高 3 阶材料） — 122 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：噬生之骨/玫瑰金/紫水晶青铜/黏液藤蔓｜最高阶级 3｜售价 122 金币｜点击购买"}}]

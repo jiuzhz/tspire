@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 坚韧手柄 · 黑色科林斯青铜（4 阶材料） — 48 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"坚韧手柄｜材料：黑色科林斯青铜｜材料阶级 4｜售价 48 金币｜点击购买"}}]

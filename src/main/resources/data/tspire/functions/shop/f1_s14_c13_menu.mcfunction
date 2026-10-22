@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 弩 · 噬生之骨/噬生之骨/奶酪（最高 2 阶材料） — 85 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"弩｜材料：噬生之骨/噬生之骨/奶酪｜最高阶级 2｜售价 85 金币｜点击购买"}}]

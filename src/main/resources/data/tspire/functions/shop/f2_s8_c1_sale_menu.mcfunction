@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[9] 强化水晶 · 振作 — 14 金币 ★特价","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 83"},"hoverEvent":{"action":"show_text","contents":"振作（防御）｜原价 29 金币｜★特价 14 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 弓弦 · 皮革（0 阶材料） — 10 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"弓弦｜材料：皮革｜材料阶级 0｜原价 20 金币｜★特价 10 金币｜点击购买"}}]

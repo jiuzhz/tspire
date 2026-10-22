@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[13] 镶板靴子 · 焦褐石/焦褐石（最高 2 阶材料） — 84 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 75"},"hoverEvent":{"action":"show_text","contents":"镶板靴子｜材料：焦褐石/焦褐石｜最高阶级 2｜售价 84 金币｜点击购买"}}]

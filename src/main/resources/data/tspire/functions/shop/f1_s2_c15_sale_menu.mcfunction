@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 坚韧套环 · 缠怨藤（2 阶材料） — 11 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"坚韧套环｜材料：缠怨藤｜材料阶级 2｜原价 22 金币｜★特价 11 金币｜点击购买"}}]

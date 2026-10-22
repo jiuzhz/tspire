@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 板斧刃 · 木（0 阶材料） — 18 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"板斧刃｜材料：木｜材料阶级 0｜售价 18 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 绑定结 · 毒之骨（2 阶材料） — 30 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"绑定结｜材料：毒之骨｜材料阶级 2｜售价 30 金币｜点击购买"}}]

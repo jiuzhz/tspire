@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 板斧 · 燧石/紫颂/焦黑石/焦褐石（最高 2 阶材料） — 78 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：燧石/紫颂/焦黑石/焦褐石｜最高阶级 2｜售价 78 金币｜点击购买"}}]

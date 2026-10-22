@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板胸甲 · 焦黑石/藤蔓（最高 2 阶材料） — 83 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板胸甲｜材料：焦黑石/藤蔓｜最高阶级 2｜售价 83 金币｜点击购买"}}]

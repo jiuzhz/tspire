@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 劈刀 · 铁/噬生之骨/末地石/钴（最高 3 阶材料） — 116 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"劈刀｜材料：铁/噬生之骨/末地石/钴｜最高阶级 3｜售价 116 金币｜点击购买"}}]

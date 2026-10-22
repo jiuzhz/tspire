@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 弓臂 · 骨头（1 阶材料） — 9 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"弓臂｜材料：骨头｜材料阶级 1｜原价 19 金币｜★特价 9 金币｜点击购买"}}]

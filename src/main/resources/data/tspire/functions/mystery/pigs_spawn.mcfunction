@@ -1,0 +1,9 @@
+execute at @e[tag=tspire_node_current,limit=1] positioned ~-2 ~ ~-2 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}
+execute at @e[tag=tspire_node_current,limit=1] positioned ~-1 ~ ~-2 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}
+execute at @e[tag=tspire_node_current,limit=1] positioned ~0 ~ ~-2 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}
+execute at @e[tag=tspire_node_current,limit=1] positioned ~-2 ~ ~-1 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}
+execute at @e[tag=tspire_node_current,limit=1] positioned ~-1 ~ ~-1 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}
+execute at @e[tag=tspire_node_current,limit=1] positioned ~0 ~ ~-1 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}
+execute at @e[tag=tspire_node_current,limit=1] positioned ~-2 ~ ~0 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}
+execute at @e[tag=tspire_node_current,limit=1] positioned ~-1 ~ ~0 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}
+execute at @e[tag=tspire_node_current,limit=1] positioned ~0 ~ ~0 run summon minecraft:pig ~ ~ ~ {Tags:["tspire_event_pig"],NoAI:1b,Invulnerable:1b,Silent:1b,PersistenceRequired:1b}

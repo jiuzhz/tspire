@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 镐头 · 焦褐石（2 阶材料） — 29 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"镐头｜材料：焦褐石｜材料阶级 2｜售价 29 金币｜点击购买"}}]

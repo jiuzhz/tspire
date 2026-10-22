@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 弓把 · 毒之骨（2 阶材料） — 14 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"弓把｜材料：毒之骨｜材料阶级 2｜原价 28 金币｜★特价 14 金币｜点击购买"}}]

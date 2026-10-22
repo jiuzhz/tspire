@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 绑定结 · 玫瑰金（3 阶材料） — 18 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"绑定结｜材料：玫瑰金｜材料阶级 3｜原价 36 金币｜★特价 18 金币｜点击购买"}}]

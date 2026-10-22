@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 匕首 · 纳瓦特尔/生铁（最高 3 阶材料） — 118 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"匕首｜材料：纳瓦特尔/生铁｜最高阶级 3｜售价 118 金币｜点击购买"}}]

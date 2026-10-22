@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 劈刀 · 噬生之骨/木/毒之骨/噬生之骨（最高 2 阶材料） — 90 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"劈刀｜材料：噬生之骨/木/毒之骨/噬生之骨｜最高阶级 2｜售价 90 金币｜点击购买"}}]

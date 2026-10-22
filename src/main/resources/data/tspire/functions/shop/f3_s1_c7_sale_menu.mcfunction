@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 弓臂 · 余烬黏液（4 阶材料） — 28 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"弓臂｜材料：余烬黏液｜材料阶级 4｜原价 56 金币｜★特价 28 金币｜点击购买"}}]

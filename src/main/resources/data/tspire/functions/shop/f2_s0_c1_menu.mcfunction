@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 坚韧套环 · 玫瑰金（3 阶材料） — 39 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"坚韧套环｜材料：玫瑰金｜材料阶级 3｜售价 39 金币｜点击购买"}}]

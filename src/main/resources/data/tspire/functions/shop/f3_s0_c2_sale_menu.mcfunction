@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 弓弦 · 宝钻皮革（4 阶材料） — 27 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"弓弦｜材料：宝钻皮革｜材料阶级 4｜原价 54 金币｜★特价 27 金币｜点击购买"}}]

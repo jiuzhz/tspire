@@ -1,0 +1,53 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:slime_helmet",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:leather\",\"tconstruct:magma\"],tic_persistent:{\"tconstruct:overslime\":50}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:slime_helmet",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:leather\",\"tconstruct:clay\"]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:slime_helmet",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:leather\",\"tconstruct:honey\"]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:slime_helmet",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_materials:[\"tconstruct:leather\",\"tconstruct:ichor\"],tic_persistent:{\"tconstruct:overslime\":125}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[9] 强化水晶 · 快速装填 — 9 金币 ★特价","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 83"},"hoverEvent":{"action":"show_text","contents":"快速装填（升级）｜原价 19 金币｜★特价 9 金币｜点击购买"}}]

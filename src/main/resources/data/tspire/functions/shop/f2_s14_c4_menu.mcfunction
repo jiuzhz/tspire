@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 长弓 · 生铁/紫水晶青铜/生铁/奶酪（最高 3 阶材料） — 123 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"长弓｜材料：生铁/紫水晶青铜/生铁/奶酪｜最高阶级 3｜售价 123 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[13] 镶板胸甲 · 铁/缠怨藤（最高 2 阶材料） — 88 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 75"},"hoverEvent":{"action":"show_text","contents":"镶板胸甲｜材料：铁/缠怨藤｜最高阶级 2｜售价 88 金币｜点击购买"}}]

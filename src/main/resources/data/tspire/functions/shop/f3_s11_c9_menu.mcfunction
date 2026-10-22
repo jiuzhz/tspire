@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板胸甲 · 皇后史莱姆/玫瑰金（最高 4 阶材料） — 152 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板胸甲｜材料：皇后史莱姆/玫瑰金｜最高阶级 4｜售价 152 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 匕首 · 余烬黏液/纳瓦特尔（最高 4 阶材料） — 148 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"匕首｜材料：余烬黏液/纳瓦特尔｜最高阶级 4｜售价 148 金币｜点击购买"}}]

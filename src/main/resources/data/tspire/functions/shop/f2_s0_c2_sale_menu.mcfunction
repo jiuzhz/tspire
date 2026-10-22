@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 弓把 · 紫水晶青铜（3 阶材料） — 18 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"弓把｜材料：紫水晶青铜｜材料阶级 3｜原价 37 金币｜★特价 18 金币｜点击购买"}}]

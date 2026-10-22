@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 坚韧套环 · 骑士史莱姆（4 阶材料） — 25 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"坚韧套环｜材料：骑士史莱姆｜材料阶级 4｜原价 51 金币｜★特价 25 金币｜点击购买"}}]

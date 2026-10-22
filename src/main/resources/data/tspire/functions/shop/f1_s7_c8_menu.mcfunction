@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[8] 强化水晶 · 魔法保护 — 24 金币","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 82"},"hoverEvent":{"action":"show_text","contents":"魔法保护（防御）｜售价 24 金币｜点击购买"}}]

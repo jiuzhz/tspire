@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 坚韧手柄 · 噬生之骨（2 阶材料） — 13 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"坚韧手柄｜材料：噬生之骨｜材料阶级 2｜原价 26 金币｜★特价 13 金币｜点击购买"}}]

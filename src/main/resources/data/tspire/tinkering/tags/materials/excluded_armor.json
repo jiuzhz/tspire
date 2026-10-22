@@ -1,0 +1,80 @@
+{
+  "values": [
+    {
+      "id": "tconstruct:aluminum",
+      "required": false
+    },
+    {
+      "id": "tconstruct:bronze",
+      "required": false
+    },
+    {
+      "id": "tconstruct:constantan",
+      "required": false
+    },
+    {
+      "id": "tconstruct:electrum",
+      "required": false
+    },
+    {
+      "id": "tconstruct:fiery",
+      "required": false
+    },
+    {
+      "id": "tconstruct:invar",
+      "required": false
+    },
+    {
+      "id": "tconstruct:ironwood",
+      "required": false
+    },
+    {
+      "id": "tconstruct:lead",
+      "required": false
+    },
+    {
+      "id": "tconstruct:nahuatl",
+      "required": false
+    },
+    {
+      "id": "tconstruct:necronium",
+      "required": false
+    },
+    {
+      "id": "tconstruct:nicrosil",
+      "required": false
+    },
+    {
+      "id": "tconstruct:osmium",
+      "required": false
+    },
+    {
+      "id": "tconstruct:pewter",
+      "required": false
+    },
+    {
+      "id": "tconstruct:plated_slimewood",
+      "required": false
+    },
+    {
+      "id": "tconstruct:silver",
+      "required": false
+    },
+    {
+      "id": "tconstruct:steeleaf",
+      "required": false
+    },
+    {
+      "id": "tconstruct:treated_wood",
+      "required": false
+    },
+    {
+      "id": "tconstruct:chorus",
+      "required": false
+    },
+    {
+      "id": "tconstruct:enderslime_vine",
+      "required": false
+    }
+  ]
+}

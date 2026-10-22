@@ -1,0 +1,46 @@
+# Eligible events receive one marker each; random marker = uniform among eligible events.
+execute if score #ME_2 tspire_timer matches ..1 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 1
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_4 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 2
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_6 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 3
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_7 tspire_timer matches ..1 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 4
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_9 tspire_timer matches ..2 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 5
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_11 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 6
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_12 tspire_timer matches ..1 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 7
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_14 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 8
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_15 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 9
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_16 tspire_timer matches ..1 unless score #PARTY_SIZE tspire_timer matches 3.. run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 10
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_17 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 11
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_21 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 12
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_20 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 13
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_23 tspire_timer matches ..0 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 14
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new
+execute if score #ME_24 tspire_timer matches ..1 run summon minecraft:marker ~ ~ ~ {Tags:["tspire_event_draw","tspire_event_draw_new"]}
+execute if entity @e[tag=tspire_event_draw_new,limit=1] run scoreboard players set @e[tag=tspire_event_draw_new,limit=1] tspire_brslot 15
+tag @e[tag=tspire_event_draw_new] remove tspire_event_draw_new

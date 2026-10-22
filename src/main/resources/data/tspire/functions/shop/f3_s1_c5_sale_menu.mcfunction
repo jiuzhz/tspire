@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 护腿镶板 · 黑曜石（3 阶材料） — 18 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"护腿镶板｜材料：黑曜石｜材料阶级 3｜原价 37 金币｜★特价 18 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 护腿镶板 · 焦黑石（2 阶材料） — 30 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"护腿镶板｜材料：焦黑石｜材料阶级 2｜售价 30 金币｜点击购买"}}]

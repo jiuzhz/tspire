@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 板斧刃 · 钢（3 阶材料） — 44 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"板斧刃｜材料：钢｜材料阶级 3｜售价 44 金币｜点击购买"}}]

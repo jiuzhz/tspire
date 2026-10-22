@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 小型剑刃 · 末地石（2 阶材料） — 15 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"小型剑刃｜材料：末地石｜材料阶级 2｜原价 31 金币｜★特价 15 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 剑 · 铁/末地石/黏钢（最高 3 阶材料） — 128 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"剑｜材料：铁/末地石/黏钢｜最高阶级 3｜售价 128 金币｜点击购买"}}]

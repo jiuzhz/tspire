@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 弓臂 · 黏木（2 阶材料） — 11 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"弓臂｜材料：黏木｜材料阶级 2｜原价 22 金币｜★特价 11 金币｜点击购买"}}]

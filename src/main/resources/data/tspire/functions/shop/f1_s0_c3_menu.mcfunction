@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 靴子镶板 · 铁（2 阶材料） — 25 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"靴子镶板｜材料：铁｜材料阶级 2｜售价 25 金币｜点击购买"}}]

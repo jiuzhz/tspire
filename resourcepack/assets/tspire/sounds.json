@@ -1,0 +1,32 @@
+{
+  "music.boss.tier1": {
+    "category": "music",
+    "sounds": [
+      { "name": "tspire:music/boss_tier1", "stream": true, "volume": 1.0, "pitch": 1.0 }
+    ]
+  },
+  "music.boss.tier2": {
+    "category": "music",
+    "sounds": [
+      { "name": "tspire:music/boss_tier2", "stream": true, "volume": 1.0, "pitch": 1.0 }
+    ]
+  },
+  "music.boss.tier3": {
+    "category": "music",
+    "sounds": [
+      { "name": "tspire:music/boss_tier3", "stream": true, "volume": 1.0, "pitch": 1.0 }
+    ]
+  },
+  "music.victory": {
+    "category": "music",
+    "sounds": [
+      { "name": "tspire:music/victory", "stream": true, "volume": 1.0, "pitch": 1.0 }
+    ]
+  },
+  "music.lobby": {
+    "category": "music",
+    "sounds": [
+      { "name": "tspire:music/lobby", "stream": true, "volume": 0.8, "pitch": 1.0 }
+    ]
+  }
+}

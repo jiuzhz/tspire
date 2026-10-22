@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 小型斧刃 · 焦褐石（2 阶材料） — 12 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"小型斧刃｜材料：焦褐石｜材料阶级 2｜原价 24 金币｜★特价 12 金币｜点击购买"}}]

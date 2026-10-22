@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 剑 · 末地石/紫颂/燧石（最高 2 阶材料） — 85 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"剑｜材料：末地石/紫颂/燧石｜最高阶级 2｜售价 85 金币｜点击购买"}}]

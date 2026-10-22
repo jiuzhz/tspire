@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[3] 大板 · 钴（3 阶材料） — 42 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 78"},"hoverEvent":{"action":"show_text","contents":"大板｜材料：钴｜材料阶级 3｜售价 42 金币｜点击购买"}}]

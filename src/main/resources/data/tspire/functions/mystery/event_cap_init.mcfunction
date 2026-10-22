@@ -1,0 +1,25 @@
+# Initialize missing counters on reload without erasing an active run.
+scoreboard players add #ME_1 tspire_timer 0
+scoreboard players add #ME_2 tspire_timer 0
+scoreboard players add #ME_3 tspire_timer 0
+scoreboard players add #ME_4 tspire_timer 0
+scoreboard players add #ME_5 tspire_timer 0
+scoreboard players add #ME_6 tspire_timer 0
+scoreboard players add #ME_7 tspire_timer 0
+scoreboard players add #ME_8 tspire_timer 0
+scoreboard players add #ME_9 tspire_timer 0
+scoreboard players add #ME_10 tspire_timer 0
+scoreboard players add #ME_11 tspire_timer 0
+scoreboard players add #ME_12 tspire_timer 0
+scoreboard players add #ME_13 tspire_timer 0
+scoreboard players add #ME_14 tspire_timer 0
+scoreboard players add #ME_15 tspire_timer 0
+scoreboard players add #ME_16 tspire_timer 0
+scoreboard players add #ME_17 tspire_timer 0
+scoreboard players add #ME_18 tspire_timer 0
+scoreboard players add #ME_19 tspire_timer 0
+scoreboard players add #ME_20 tspire_timer 0
+scoreboard players add #ME_21 tspire_timer 0
+scoreboard players add #ME_22 tspire_timer 0
+scoreboard players add #ME_23 tspire_timer 0
+scoreboard players add #ME_24 tspire_timer 0

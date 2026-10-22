@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 小型斧刃 · 噬生之骨（2 阶材料） — 15 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"小型斧刃｜材料：噬生之骨｜材料阶级 2｜原价 30 金币｜★特价 15 金币｜点击购买"}}]

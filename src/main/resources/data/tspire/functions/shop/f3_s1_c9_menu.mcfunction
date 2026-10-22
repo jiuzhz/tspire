@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[2] 盾牌基底 · 烈焰木（4 阶材料） — 47 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 77"},"hoverEvent":{"action":"show_text","contents":"盾牌基底｜材料：烈焰木｜材料阶级 4｜售价 47 金币｜点击购买"}}]

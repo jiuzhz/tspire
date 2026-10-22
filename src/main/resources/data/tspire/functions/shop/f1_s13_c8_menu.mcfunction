@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 板斧 · 骨头/焦黑石/焦褐石/黏木（最高 2 阶材料） — 87 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：骨头/焦黑石/焦褐石/黏木｜最高阶级 2｜售价 87 金币｜点击购买"}}]

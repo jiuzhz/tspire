@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[12] 镶板护腿 · 黑曜石/玛玉灵（最高 4 阶材料） — 142 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 74"},"hoverEvent":{"action":"show_text","contents":"镶板护腿｜材料：黑曜石/玛玉灵｜最高阶级 4｜售价 142 金币｜点击购买"}}]

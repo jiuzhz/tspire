@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[6] 喷溅型药水 (瞬间治疗 II) — 32 金币","color":"green","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 80"},"hoverEvent":{"action":"show_text","contents":"喷溅型药水 (瞬间治疗 II)｜售价 32 金币｜点击购买"}}]

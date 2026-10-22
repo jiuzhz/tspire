@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 链甲基底 · 铜（1 阶材料） — 18 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"链甲基底｜材料：铜｜材料阶级 1｜售价 18 金币｜点击购买"}}]

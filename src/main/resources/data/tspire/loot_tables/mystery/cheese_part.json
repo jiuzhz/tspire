@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:bowstring",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Material:\"tconstruct:cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:laces",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Material:\"tconstruct:cheese\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

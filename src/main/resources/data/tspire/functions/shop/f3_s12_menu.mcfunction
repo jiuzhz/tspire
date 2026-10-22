@@ -1,0 +1,16 @@
+execute if score @s tspire_s12 matches 1 run function tspire:shop/f3_s12_c1_menu
+execute if score @s tspire_s12 matches 2 run function tspire:shop/f3_s12_c2_menu
+execute if score @s tspire_s12 matches 3 run function tspire:shop/f3_s12_c3_menu
+execute if score @s tspire_s12 matches 4 run function tspire:shop/f3_s12_c4_menu
+execute if score @s tspire_s12 matches 5 run function tspire:shop/f3_s12_c5_menu
+execute if score @s tspire_s12 matches 6 run function tspire:shop/f3_s12_c6_menu
+execute if score @s tspire_s12 matches 7 run function tspire:shop/f3_s12_c7_menu
+execute if score @s tspire_s12 matches 8 run function tspire:shop/f3_s12_c8_menu
+execute if score @s tspire_s12 matches 9 run function tspire:shop/f3_s12_c9_menu
+execute if score @s tspire_s12 matches 10 run function tspire:shop/f3_s12_c10_menu
+execute if score @s tspire_s12 matches 11 run function tspire:shop/f3_s12_c11_menu
+execute if score @s tspire_s12 matches 12 run function tspire:shop/f3_s12_c12_menu
+execute if score @s tspire_s12 matches 13 run function tspire:shop/f3_s12_c13_menu
+execute if score @s tspire_s12 matches 14 run function tspire:shop/f3_s12_c14_menu
+execute if score @s tspire_s12 matches 15 run function tspire:shop/f3_s12_c15_menu
+execute if score @s tspire_s12 matches 16 run function tspire:shop/f3_s12_c16_menu

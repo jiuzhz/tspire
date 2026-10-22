@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 匕首 · 铁/焦黑石（最高 2 阶材料） — 97 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"匕首｜材料：铁/焦黑石｜最高阶级 2｜售价 97 金币｜点击购买"}}]

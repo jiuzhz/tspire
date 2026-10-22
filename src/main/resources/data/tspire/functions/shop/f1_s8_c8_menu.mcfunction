@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[9] 强化水晶 · 噬生 — 16 金币","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 83"},"hoverEvent":{"action":"show_text","contents":"噬生（升级）｜售价 16 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 劈刀 · 黏钢/皇后史莱姆/黏钢/玫瑰金（最高 4 阶材料） — 147 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"劈刀｜材料：黏钢/皇后史莱姆/黏钢/玫瑰金｜最高阶级 4｜售价 147 金币｜点击购买"}}]

@@ -1,0 +1,39 @@
+{
+    "pools":  [
+                  {
+                      "rolls":  2,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:loot_table",
+                                          "name":  "tspire:rewards/part_f1",
+                                          "weight":  294
+                                      },
+                                      {
+                                          "type":  "minecraft:loot_table",
+                                          "name":  "tspire:rewards/crystal",
+                                          "weight":  344
+                                      },
+                                      {
+                                          "type":  "minecraft:loot_table",
+                                          "name":  "tspire:rewards/gear_f1",
+                                          "weight":  147
+                                      },
+                                      {
+                                          "type":  "minecraft:loot_table",
+                                          "name":  "tspire:rewards/special_f1",
+                                          "weight":  203
+                                      },
+                                      {
+                                          "type":  "minecraft:loot_table",
+                                          "name":  "tspire:rewards/ancient",
+                                          "weight":  6
+                                      },
+                                      {
+                                          "type":  "minecraft:loot_table",
+                                          "name":  "tspire:rewards/throwing",
+                                          "weight":  6
+                                      }
+                                  ]
+                  }
+              ]
+}

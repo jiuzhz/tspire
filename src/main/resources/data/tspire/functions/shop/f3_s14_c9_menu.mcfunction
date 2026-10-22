@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 镰刀 · 紫水晶青铜/玫瑰金/黏液藤蔓/钴（最高 4 阶材料） — 148 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"镰刀｜材料：紫水晶青铜/玫瑰金/黏液藤蔓/钴｜最高阶级 4｜售价 148 金币｜点击购买"}}]

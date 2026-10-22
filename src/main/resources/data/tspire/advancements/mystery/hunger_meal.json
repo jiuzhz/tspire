@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "drink_hunger_meal": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:potion"],
+          "nbt": "{tspireHungerMeal:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tspire:mystery/hunger_meal_drink"
+  }
+}

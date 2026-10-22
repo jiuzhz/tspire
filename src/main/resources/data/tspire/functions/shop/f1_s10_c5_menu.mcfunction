@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[11] 强化水晶 · 和睦 — 35 金币","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 73"},"hoverEvent":{"action":"show_text","contents":"和睦（无槽位）｜售价 35 金币｜点击购买"}}]

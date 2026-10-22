@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 靴子镶板 · 生铁（3 阶材料） — 21 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"靴子镶板｜材料：生铁｜材料阶级 3｜原价 42 金币｜★特价 21 金币｜点击购买"}}]

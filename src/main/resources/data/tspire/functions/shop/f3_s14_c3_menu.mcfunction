@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 镰刀 · 余烬黏液/钢/钴/黏钢（最高 4 阶材料） — 157 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"镰刀｜材料：余烬黏液/钢/钴/黏钢｜最高阶级 4｜售价 157 金币｜点击购买"}}]

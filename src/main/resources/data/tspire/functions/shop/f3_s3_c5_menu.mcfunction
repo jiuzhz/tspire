@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 宽刃 · 皇后史莱姆（4 阶材料） — 52 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"宽刃｜材料：皇后史莱姆｜材料阶级 4｜售价 52 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[14] 弩 · 铁/竹/奶酪（最高 2 阶材料） — 86 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 76"},"hoverEvent":{"action":"show_text","contents":"弩｜材料：铁/竹/奶酪｜最高阶级 2｜售价 86 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 镰刀 · 紫颂/黏木/藤蔓/燧石（最高 2 阶材料） — 88 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"镰刀｜材料：紫颂/黏木/藤蔓/燧石｜最高阶级 2｜售价 88 金币｜点击购买"}}]

@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tconstruct:plate_chestplate",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tic_materials:[\"tconstruct:hepatizon\",\"tconstruct:ichorskin\"]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

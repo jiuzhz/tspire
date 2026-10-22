@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[13] 镶板靴子 · 钴/黏液藤蔓（最高 3 阶材料） — 128 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 75"},"hoverEvent":{"action":"show_text","contents":"镶板靴子｜材料：钴/黏液藤蔓｜最高阶级 3｜售价 128 金币｜点击购买"}}]

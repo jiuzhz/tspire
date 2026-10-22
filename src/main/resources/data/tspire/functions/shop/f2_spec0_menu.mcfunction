@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[6] Fuel Tank (1000 mB Lava) — 26 金币","color":"green","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 80"},"hoverEvent":{"action":"show_text","contents":"Fuel Tank (1000 mB Lava)｜售价 26 金币｜点击购买"}}]

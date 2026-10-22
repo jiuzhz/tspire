@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[11] 强化水晶 · 铭刻 — 15 金币 ★特价","color":"light_purple","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 73"},"hoverEvent":{"action":"show_text","contents":"铭刻（无槽位）｜原价 31 金币｜★特价 15 金币｜点击购买"}}]

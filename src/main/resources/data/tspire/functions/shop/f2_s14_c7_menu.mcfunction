@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 板斧 · 黏钢/黏钢/玫瑰金/钴（最高 3 阶材料） — 116 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"板斧｜材料：黏钢/黏钢/玫瑰金/钴｜最高阶级 3｜售价 116 金币｜点击购买"}}]

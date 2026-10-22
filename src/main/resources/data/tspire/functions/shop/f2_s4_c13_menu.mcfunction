@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[5] 头盔镶板 · 钢（3 阶材料） — 39 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 85"},"hoverEvent":{"action":"show_text","contents":"头盔镶板｜材料：钢｜材料阶级 3｜售价 39 金币｜点击购买"}}]

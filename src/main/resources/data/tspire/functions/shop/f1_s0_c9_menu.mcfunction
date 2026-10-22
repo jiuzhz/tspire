@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 链甲基底 · 藤蔓（1 阶材料） — 18 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"链甲基底｜材料：藤蔓｜材料阶级 1｜售价 18 金币｜点击购买"}}]

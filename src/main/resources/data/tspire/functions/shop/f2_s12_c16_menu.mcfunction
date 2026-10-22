@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[13] 镶板头盔 · 生铁/钴（最高 3 阶材料） — 128 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 75"},"hoverEvent":{"action":"show_text","contents":"镶板头盔｜材料：生铁/钴｜最高阶级 3｜售价 128 金币｜点击购买"}}]

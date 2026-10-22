@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 劈刀 · 铁/木/焦褐石/毒之骨（最高 2 阶材料） — 97 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"劈刀｜材料：铁/木/焦褐石/毒之骨｜最高阶级 2｜售价 97 金币｜点击购买"}}]

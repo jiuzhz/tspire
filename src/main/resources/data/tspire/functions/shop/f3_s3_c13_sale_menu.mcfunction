@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[4] 弓弦 · 黑曜丝线（3 阶材料） — 18 金币 ★特价","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 79"},"hoverEvent":{"action":"show_text","contents":"弓弦｜材料：黑曜丝线｜材料阶级 3｜原价 36 金币｜★特价 18 金币｜点击购买"}}]

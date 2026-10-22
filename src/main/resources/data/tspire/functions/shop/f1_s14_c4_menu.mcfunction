@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[15] 匕首 · 紫颂/铜（最高 1 阶材料） — 53 金币","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 71"},"hoverEvent":{"action":"show_text","contents":"匕首｜材料：紫颂/铜｜最高阶级 1｜售价 53 金币｜点击购买"}}]

@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[1] 胸甲镶板 · 焦褐石（2 阶材料） — 32 金币","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger tspire_click set 72"},"hoverEvent":{"action":"show_text","contents":"胸甲镶板｜材料：焦褐石｜材料阶级 2｜售价 32 金币｜点击购买"}}]
